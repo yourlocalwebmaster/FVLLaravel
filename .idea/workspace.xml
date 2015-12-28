@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d538545f-340c-4b33-b725-4d65c2d1006f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/partials/header.blade.php" afterPath="$PROJECT_DIR$/resources/views/partials/header.blade.php" />
-    </list>
+    <list default="true" id="d538545f-340c-4b33-b725-4d65c2d1006f" name="Default" comment="" />
     <ignored path="FamilyVideoLibraryV3.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -72,6 +69,8 @@
       <command text="git commit -m &quot;boilerplate static pages etc&quot;" />
       <command text="git push" />
       <command text="git add -A" />
+      <command text="git commit -m &quot;responsive meta header on page template&quot;" />
+      <command text="git push" />
     </commandsHistory>
   </component>
   <component name="Git.Settings">
