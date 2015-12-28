@@ -1,7 +1,9 @@
 <!doctype html>
 <html>
 <head>
-<meta charset="utf-8">
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
     <title>{!! $pageTitle !!}</title>
     {{ Html::script('bower_components/jquery/dist/jquery.min.js') }}
     {{ Html::script('bower_components/bootstrap/dist/js/bootstrap.min.js') }}
